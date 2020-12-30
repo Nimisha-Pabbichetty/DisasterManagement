@@ -1,4 +1,5 @@
 # DisasterManagement
+Switch to "master" branch to view codes.
 
 This contains both backend Scripts and Front end scripts
 
